@@ -1,0 +1,12 @@
+/* Référence CSS : https://www.wix.com/velo/reference/$w/styling-elements-with-css */
+ 
+/* Ces styles CSS seront appliqués globalement à toutes les pages de ce site. Saisissez votre CSS ici. Ex: : */
+
+/* Changer la couleur d'arrière-plan du bouton en rouge : */
+/* .button {
+ background-color : red ;
+} */
+
+#button7 {
+    border-radius: 30%;
+}
